@@ -437,6 +437,7 @@ body footer .fmain .ful a i {
   font-size: 15px;
 }
 
+<<<<<<< HEAD
 @media (min-width: 768px) and (max-width: 1023px) {
   body header .emptybg {
     width: 1410px;
@@ -708,6 +709,11 @@ body footer .fmain .ful a i {
 @media (max-width: 767px) {
   body header .emptybg {
     width: 1420px;
+=======
+@media (max-width: 767px) {
+  body header .emptybg {
+    width: 116vh;
+>>>>>>> 029067be9887d50e00ce4d6df6b2540cd25c52b7
     height: 200px;
     background-color: white;
     display: flex;
@@ -747,12 +753,20 @@ body footer .fmain .ful a i {
     top: 100%;
     left: -40%;
     background-color: white;
+<<<<<<< HEAD
     width: 350%;
+=======
+    width: 315%;
+>>>>>>> 029067be9887d50e00ce4d6df6b2540cd25c52b7
     display: flex;
     flex-direction: column;
   }
   body .banner {
+<<<<<<< HEAD
     width: 1410px;
+=======
+    width: 115.5vh;
+>>>>>>> 029067be9887d50e00ce4d6df6b2540cd25c52b7
     height: 305vh;
   }
   body .herocontent {
@@ -1021,13 +1035,21 @@ body footer .fmain .ful a i {
     justify-content: center;
   }
   body footer .fmain .fcopy {
+<<<<<<< HEAD
     font-size: 50px;
     border: 1px solid red;
     width: 1000px;
+=======
+    font-size: 55px;
+>>>>>>> 029067be9887d50e00ce4d6df6b2540cd25c52b7
   }
   body footer .fmain .ful {
     margin-top: 20px;
     width: 900px;
+<<<<<<< HEAD
+=======
+    margin-right: 300px;
+>>>>>>> 029067be9887d50e00ce4d6df6b2540cd25c52b7
   }
   body footer .fmain .ful .ficons {
     width: 200px;
